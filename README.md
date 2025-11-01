@@ -1,2 +1,3 @@
 Some content here
-Gtreat
+Great
+COntext is simple
